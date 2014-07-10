@@ -1,4 +1,4 @@
 crowd-python
 ============
 
-Python client library for Atlassian Crow REST API
+Python client library for Atlassian Crowd REST API
